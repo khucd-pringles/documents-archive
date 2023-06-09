@@ -1,6 +1,6 @@
 # documents-archive
 
-*documents-archive*는 `PowerPoint`, `Excel` 및 `Word` 파일을 포함하여 
+*documents-archive*는 `PowerPoint`, `Excel`, `Word` 및 'PDF' 파일을 포함하여 
 
 다양한 유형의 문서를 저장하고 구성하기 위한 중앙 위치 역할을 하는 저장소이다.
 
